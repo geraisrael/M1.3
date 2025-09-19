@@ -1,5 +1,4 @@
-// roundrobin.js
-// Ejecutar con: node roundrobin.js <numeroProcesos>
+
 
 function obtenerLineaAleatoria() {
   const lineas = [
